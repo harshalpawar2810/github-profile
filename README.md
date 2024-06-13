@@ -9,8 +9,6 @@ I'm Harshal Pawar, a Masters in Data Science student at [SUNY Buffalo](https://w
 - 💻 Skilled in Python, R, MySQL, SQLite, PostgreSQL, Microsoft SQL Server, React, Django 
 - 📊 Excel at Microsoft Excel, Google Sheets, Jira, and Microsoft PowerPoint
 
-Sure, here are your proficiency badges with icons:
-
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-📊-blue)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-📈-orange)
 ![Statistics](https://img.shields.io/badge/Statistics-📊-blue)
